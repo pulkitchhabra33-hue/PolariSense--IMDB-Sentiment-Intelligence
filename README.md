@@ -1,4 +1,4 @@
-# PolariSense-IMDB-Sentiment-Intelligence
+# PolariSense--IMDB-Sentiment-Intelligence
 
 📌 Project Overview
 
