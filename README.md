@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-CineSentix AI is a sentiment analysis system built on the IMDB 50K movie reviews dataset.
+PolariSense is a sentiment analysis system built on the IMDB 50K movie reviews dataset.
 
 This project compares traditional machine learning techniques with deep learning models to analyze and classify movie reviews as positive or negative.
 
